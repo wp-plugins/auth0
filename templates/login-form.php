@@ -77,5 +77,8 @@ if(empty($client_id) || empty($domain)): ?>
         #login #nav {
             display: none;
         }
+        #a0-widget .a0-panel{
+            margin: auto;
+        }
     </style>
 <?php endif;
